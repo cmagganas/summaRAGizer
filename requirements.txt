@@ -1,4 +1,8 @@
-langchain
-langchain-openai
 chromadb
+fastapi
+langchain
+langchain_community
+langchain_openai
+python-dotenv
 tiktoken
+uvicorn
