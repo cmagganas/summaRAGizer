@@ -19,17 +19,18 @@ You will need an [OpenAI API key](https://platform.openai.com/account/api-keys).
 To set up and run SummaRAGizer on your local machine, follow these steps:
 
 1. Clone the Repository:
-```bash
-git clone https://github.com/cmagganas/summaRAGizer.git
-cd summaRAGizer
-pip install -r requirements.txt
-export OPENAI_API_KEY="sk-123..."
-python app.py
-```
+
+    ```bash
+    git clone https://github.com/cmagganas/summaRAGizer.git
+    cd summaRAGizer
+    pip install -r requirements.txt
+    export OPENAI_API_KEY="sk-123..."
+    python app.py
+    ```
 
 2. Usage
 
-    Once the application is running, navigate to http://localhost:8000/ in your web browser. You will be greeted with a simple interface for uploading your text documents.
+    Once the application is running, navigate to <http://localhost:8000/> in your web browser. You will be greeted with a simple interface for uploading your text documents.
 
 3. Uploading Documents
 
